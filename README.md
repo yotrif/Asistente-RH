@@ -1,4 +1,4 @@
-[index (2).html](https://github.com/user-attachments/files/25536762/index.2.html)# 👔 AI Agent Chat
+# 👔 Asistente RH
 
 Interfaz web de chat conectada a un agente de inteligencia artificial construido en **n8n Cloud**, con memoria de conversación y acceso desde cualquier dispositivo con navegador. Completamente gratuito y sin límite de tiempo.
 
