@@ -6,7 +6,7 @@ Interfaz web de chat conectada a un agente de inteligencia artificial construido
 
 ## 🌐 Enlace del chat
 
-👉 (https://github.com/user-attachments/files/25536762/index.2.html)[Uploading index (2).html…]()
+👉 
 
 
 
