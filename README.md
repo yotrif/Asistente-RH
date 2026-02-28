@@ -7,6 +7,8 @@ Interfaz web de chat conectada a un agente de inteligencia artificial construido
 ## 🌐 Enlace del chat
 
 👉 [index (2).html](https://github.com/user-attachments/files/25551624/index.2.html)
+[sara-rrhh.html](https://github.com/user-attachments/files/25617915/sara-rrhh.html)
+
 
 
 
